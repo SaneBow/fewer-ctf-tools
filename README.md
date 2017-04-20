@@ -22,7 +22,7 @@ This list tries to make the chosen tool the most powerful and representative one
 ### Crypto
 
 - Classical
-  - Substitution: [quipqiup.com](http://www.quipqiup.com)
+  - Substitution: [quipqiup.com](http://www.quipqiup.com)
   - XOR: [xortool](https://github.com/hellman/xortool)
   
 - Modern
