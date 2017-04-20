@@ -52,6 +52,13 @@ Exploits
 ### Web
 
 - HTTP Proxy: Burpsuite
+- File scanner: [weakfilescan](https://github.com/ring04h/weakfilescan)
 - SQL Injection: [sqlmap](http://sqlmap.org)
+- XSS exploit: [BeEF](https://github.com/beefproject/beef)
+- Webshell: [antSword](https://medicean.gitbooks.io/antsword/zh-hans/index.html)
 
 ### Network
+
+- Packets analyzer: [wireshark](https://www.wireshark.org)
+- Scanner: [nmap](https://nmap.org)
+
