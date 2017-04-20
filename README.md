@@ -20,26 +20,31 @@ This list tries to make the chosen tool the most powerful and representative one
 ## Tools
 
 ### Crypto
+
 - Classical
   - Substitution: [quipqiup.com](http://www.quipqiup.com)
   - XOR: [xortool](https://github.com/hellman/xortool)
+  
 - Modern
   - RSA: [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
   - MD5 Reverse Lookup: [cmd5.com](http://www.cmd5.com)
   - Length Extension Attack: [HashPump](https://github.com/bwall/HashPump)
 
 ### Binary
+
 - Reverse
   - PE info & unpack: PEiD
   - Disassembler & decompiler & debugger: IDA Pro
-  - JAVA decompiler: [jd-gui](https://github.com/java-decompiler/jd-gui)
+  - JAVA decompiler: [jd-gui](https://github.com/java-decompiler/jd-gui)
   - Android APK decompiler: [jadx](https://github.com/skylot/jadx)
   - .NET decompiler: [ILSpy](http://ilspy.net)
+  
 - Exploits
   - Python Exploit Development Assistance for GDB: [Peda](https://github.com/longld/peda)
   - CTF toolkit for exploit development: [pwntools](https://github.com/Gallopsled/pwntools)
 
 ### Forensics
+
 - Image steganography: [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar)
 - Meta information: [Exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
 - Binary extractor: [binwalk](https://github.com/devttys0/binwalk)
