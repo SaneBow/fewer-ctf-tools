@@ -26,7 +26,7 @@ Classical
 - XOR: [xortool](https://github.com/hellman/xortool)
 
 Modern
-- RSA: [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool), [factordb.com](http://factordb.com/)
+- RSA: [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 - MD5 Reverse Lookup: [cmd5.com](http://www.cmd5.com)
 - Length Extension Attack: [HashPump](https://github.com/bwall/HashPump)
 
