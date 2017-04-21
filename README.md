@@ -34,7 +34,7 @@ Modern
 ### Binary
 
 Reverse
-- PE info & unpack: PEiD
+- PE info & unpack: [ExeinfoPE](http://exeinfo.pe.hu)
 - Disassembler & decompiler & debugger: IDA Pro
 - JAVA decompiler: [jd-gui](https://github.com/java-decompiler/jd-gui)
 - Android APK decompiler: [jadx](https://github.com/skylot/jadx)
