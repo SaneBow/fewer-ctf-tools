@@ -4,13 +4,13 @@
 
 ### Why?
 
-I know, I know. There already exists some perfect lists, like [this](https://github.com/apsdehal/aWEsoMe-cTf) and [this](https://github.com/zardus/ctf-tools), but those lists are **too perfect**. I mean they almost include every tool you can find online. If you are a beginner like me, you may spend a lifetime trying and learning each of them. Even if don't need them all, say if you only need the tool for a specific type of CTF puzzle, you may find yourself spending a lifetime choosing among similar tools.
+I know, I know. There already exists some perfect lists, like [this](https://github.com/apsdehal/aWEsoMe-cTf) and [this](https://github.com/zardus/ctf-tools), but those lists are **too perfect**. I mean they almost include every tool you can find online. If you are a beginner like me, you may spend a lifetime trying and learning each of them.
 
 ### What's in this list:
 
 **One** tool for each category of CTF puzzles that are **commonly** seen. 
 
-This list tries to make the chosen tool the most powerful and representative one for solving particular type of CTF puzzle.
+This list tries to make the chosen tool the most powerful and representative one for solving each particular type of CTF puzzle.
 
 ### What will not be included in this list:
 
