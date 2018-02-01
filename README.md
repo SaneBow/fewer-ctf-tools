@@ -29,7 +29,7 @@ Modern
 - RSA: [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 - MD5 Reverse Lookup: [cmd5.com](http://www.cmd5.com)
 - Length Extension Attack: [HashPump](https://github.com/bwall/HashPump)
-- Padding Oracle: (TODO)
+- Padding Oracle: [Padding-oracle-attack](https://github.com/mpgn/Padding-oracle-attack)
 
 ### Binary
 
