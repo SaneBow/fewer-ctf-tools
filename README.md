@@ -65,4 +65,5 @@ Exploits
 
 - Packets analyzer: [wireshark](https://www.wireshark.org)
 - Scanner: [nmap](https://nmap.org)
-- WiFi Cracker: [hashcat](https://hashcat.net/hashcat/)
+- WiFi attack suite: [Aircrack-ng](https://www.aircrack-ng.org/index.html)
+- Password recovery: [hashcat](https://hashcat.net/hashcat/)
