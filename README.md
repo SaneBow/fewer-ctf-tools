@@ -41,8 +41,11 @@ Reverse
 - .NET decompiler: [ILSpy](http://ilspy.net)
   
 Exploits
-- Python Exploit Development Assistance for GDB: [Peda](https://github.com/longld/peda)
+- Python Exploit Development Assistance for GDB: [pwndbg](https://github.com/pwndbg/pwndbg)
 - CTF toolkit for exploit development: [pwntools](https://github.com/Gallopsled/pwntools)
+- ROP gadgets finder: [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+- oneshot exploitation: [one_gadget](https://github.com/david942j/one_gadget)
+- seccomp analysis tool: [seccomp-tools](https://github.com/david942j/seccomp-tools)
 
 ### Forensics
 
@@ -62,4 +65,5 @@ Exploits
 
 - Packets analyzer: [wireshark](https://www.wireshark.org)
 - Scanner: [nmap](https://nmap.org)
-- WiFi Cracker: [Aircrack-ng](https://www.aircrack-ng.org/index.html)
+- WiFi attack suite: [Aircrack-ng](https://www.aircrack-ng.org/index.html)
+- Password recovery: [hashcat](https://hashcat.net/hashcat/)
