@@ -55,7 +55,7 @@ Exploits
 
 ### Web
 
-- HTTP Proxy: Burpsuite
+- HTTP Proxy: [Burpsuite](https://portswigger.net/burp)
 - File scanner: [FileSensor](https://github.com/Xyntax/FileSensor)
 - SQL Injection: [sqlmap](http://sqlmap.org)
 - XSS exploit: [BeEF](https://github.com/beefproject/beef)
@@ -65,5 +65,4 @@ Exploits
 
 - Packets analyzer: [wireshark](https://www.wireshark.org)
 - Scanner: [nmap](https://nmap.org)
-- WiFi attack suite: [Aircrack-ng](https://www.aircrack-ng.org/index.html)
-- Password recovery: [hashcat](https://hashcat.net/hashcat/)
+- WiFi security tools suite: [Aircrack-ng](https://www.aircrack-ng.org/index.html)
